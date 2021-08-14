@@ -13,3 +13,12 @@ namespace backend
         public string Summary { get; set; }
     }
 }
+
+// "Logging": {
+//   "LogLevel": {
+//     "Default": "Information",
+//     "Microsoft": "Warning",
+//     "Microsoft.Hosting.Lifetime": "Information"
+//   }
+// },
+// "AllowedHosts": "*"
